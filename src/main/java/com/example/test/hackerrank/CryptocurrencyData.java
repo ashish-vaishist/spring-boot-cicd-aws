@@ -1,3 +1,4 @@
+/*
 package com.example.test.hackerrank;
 
 import java.io.IOException;
@@ -36,3 +37,4 @@ public class CryptocurrencyData {
 
     }
 }
+*/
